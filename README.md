@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Guimerr/Guimerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Guilherme
 
-Here are some ideas to get you started:
+SaaS Builder, Vibe Coder & AI Enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build digital products, SaaS platforms and AI-powered solutions.
+
+- 🚀 Focus: SaaS, AI Agents, Web Development & Automation
+- 🛠️ Currently building: AI-powered products and digital solutions
+- 🎓 Student of Human Resources Management
+- 🌍 Interested in: Entrepreneurship, Technology & Growth
+
+### 🌐 Projects
+- [RaiseUp](https://raiseup.site/)
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/guilherme-v-b07263369/
+- Open to collaborations and new opportunities
