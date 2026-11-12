@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Guilherme
 
-SaaS Builder, Vibe Coder & AI Enthusiast.
+SaaS Builder & AI Enthusiast.
 
 I build digital products, SaaS platforms and AI-powered solutions.
 
